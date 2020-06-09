@@ -1,3 +1,2 @@
 # AlgoAndDataStructure
-Git Practic
-# My app for practice
+For Git Practic and for SpringBoot and MicroServices practice
